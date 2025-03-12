@@ -50,7 +50,3 @@ __________________________________________________
 
 <img width="960" alt="DEMO5" src="https://user-images.githubusercontent.com/110014127/187087843-c6a1af98-d81f-4a99-ae44-8a7853130eeb.png">
 
-Properties of Table In MY SQL Database:
-___________________________________________
-
-<img width="960" alt="MY SQL DATABASE" src="https://user-images.githubusercontent.com/110014127/187087967-35e7bbb6-219e-4eb5-8238-a3e90b006e8b.png">
